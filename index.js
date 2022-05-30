@@ -25,7 +25,7 @@ require("ffmpeg-static");
 require("ytdl-core");
 
 //////////////////
-const prefix = "Your Prefix"
+const prefix = "$"
 /////////////////
 
 
@@ -443,6 +443,6 @@ client.distube
 	});
 
 client.login(process.env.token).catch((err) =>{
-console.warn("\033[31m Token Invalid")
+console.warn("OTc1ODc5NTMyODk4ODQ0NzMy.GavJ-C.8oWc705m4TZshO8E1AKUFRgdyi-auDp_kAwS2M")
 })
  
